@@ -14,5 +14,5 @@
 - 🗂️ Content Management System  
 
 ## 🌐 Connect With Me
-[LinkedIn](#) | [GitHub](https://github.com/Aatish75517)
+[LinkedIn](www.linkedin.com/in/aatish-aakash-86b686388) | [GitHub](https://github.com/Aatish75517)
 
